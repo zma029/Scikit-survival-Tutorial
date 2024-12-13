@@ -1,1 +1,1 @@
-# Sk-survival-Tutorial
+# Scikit-survival-Tutorial
